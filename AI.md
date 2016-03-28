@@ -26,18 +26,18 @@
 
 ----
 
-# ALGORITHMS
+# 算法
 
-+ [DataDecomposition.jl](https://github.com/trthatcher/DataDecomposition.jl) :: Data pre-processing algorithms.
-+ [SimDistComp.jl](https://github.com/CUHK-MMLAB/SimDistComp.jl) :: A Julia framework to support the simulation of distributed computing algorithms.
++ [DataDecomposition.jl](https://github.com/trthatcher/DataDecomposition.jl) :: 数据预处理算法
++ [SimDistComp.jl](https://github.com/CUHK-MMLAB/SimDistComp.jl) :: 分布式计算模拟框架.
 
 ### 关联规则学习
 + [ARules.jl](https://github.com/toddleo/ARules.jl) :: 关联规则学习程序库.
 
 ### Checksum 
-+ [CRC.jl](https://github.com/andrewcooke/CRC.jl) :: This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
-+ [CRC32.jl](https://github.com/fhs/CRC32.jl) :: 32-bit cyclic redundancy check (CRC-32) checksum implementation.
-+ [GutFlora.jl](https://github.com/one-more-minute/GutFlora.jl) :: Contains a pure-Julia implementation of the MD5 checksum, available as md5(::IO) or md5file("file").
++ [CRC.jl](https://github.com/andrewcooke/CRC.jl) :: 循环冗余校验计算(CRCs)模块
++ [CRC32.jl](https://github.com/fhs/CRC32.jl) :: 32-位循环冗余校验 (CRC-32)实现.
++ [GutFlora.jl](https://github.com/one-more-minute/GutFlora.jl) :: 纯Julia的MD5校验可以简单地通过`md5(::IO)`或者`md5file("file")`完成
 
 ### Collaborative Filtering
 + [RecSys.jl](https://github.com/abhijithch/RecSys.jl) :: An implementation of the algorithm from "Yunhong Zhou, Dennis Wilkinson, Robert Schreiber and Rong Pan. Large-Scale Parallel Collaborative Filtering for the Netflix Prize. Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management. Shanghai, China pp. 337-348, 2008".
