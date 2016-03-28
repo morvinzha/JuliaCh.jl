@@ -45,7 +45,7 @@
 + [Web-Server.md](https://github.com/svaksha/Julia.jl/blob/master/Web-Server.md) :: 高性能计算，分布式计算，云WWW，HTTP，网络，服务器等...
 
 
-**DISCLAIMER :** As a new language in the scientific computing scene it is frequently in a state of flux due to the addition of new libraries, resulting in frequent changes and page reordering. Since the **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, it should not be considered an endorsment of any particular package for software quality, technical features, coding style/organization, etc...
+**免责声明：** 作为一门新出现的科学计算语言，Julia由于经常会加入新的库而导致一些文档的频繁变动以及页面的调整，它常常处于一种不稳定的状态，这里我们仅提供一个广义的Julia程序包列表，而不会具体考虑每个程序包的质量，技术特点，编程范式等。
 
 ----
 
