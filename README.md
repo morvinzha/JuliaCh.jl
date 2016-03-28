@@ -36,13 +36,13 @@
 + [Mathematics.md](Mathematics.md):: 代数，几何，... 所有和数学相关的内容.
 + [OpenData.md](https://github.com/svaksha/Julia.jl/blob/master/OpenData.md) :: OpenData，免费的数据集
 + [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: 和物理相关的Julia程序包
-+ [Programming-Paradigms.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, etc..
-+ [Publications.md](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: Research Papers (journal and conference publications).
-+ [QA.md](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/ Unit testing,... Quality-related tools.
-+ [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) :: blogs, cookbooks, cheatsheets, IJulia NoteBooks, and other non-standard resources.
-+ [Statistics.md](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) :: Actuarial Science, Finance, economics, stochastic, insurance Statistics, Operations research and Benchmarks and Optimization toolkits....
-+ [Utilities.md](https://github.com/svaksha/Julia.jl/blob/master/Utilities.md) :: Handy toolkits and other general utilities for your Desktop.
-+ [Web-Server.md](https://github.com/svaksha/Julia.jl/blob/master/Web-Server.md) :: HPC, Distributed Computing, Cloud WWW, HTTP, Networking, Servers, etc...
++ [Programming-Paradigms.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) :: 类型系统，数据类型等的编程范例和语法概念
++ [Publications.md](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: 相关的研究论文 (期刊和会议文章).
++ [QA.md](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: 驱动开发测试，沙盒，函数/模块测试，... 质量相关的工具.
++ [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) :: 博客，cookbooks，备忘，IJulia NoteBooks，以及其它非标准文档的资源.
++ [Statistics.md](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) :: 精算学，财政，经济学，随机分析，保险统计，运筹学和标准测试以及数学优化工具....
++ [Utilities.md](https://github.com/svaksha/Julia.jl/blob/master/Utilities.md) :: 方便的工具集和其他常用工具
++ [Web-Server.md](https://github.com/svaksha/Julia.jl/blob/master/Web-Server.md) :: 高性能计算，分布式计算，云WWW，HTTP，网络，服务器等...
 
 
 **DISCLAIMER :** As a new language in the scientific computing scene it is frequently in a state of flux due to the addition of new libraries, resulting in frequent changes and page reordering. Since the **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, it should not be considered an endorsment of any particular package for software quality, technical features, coding style/organization, etc...
