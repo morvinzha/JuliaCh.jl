@@ -28,14 +28,14 @@
 + [Community.md](https://github.com/svaksha/Julia.jl/blob/master/Community.md) :: 这里列出了社区和Julia相关开发的链接，包括Julia大事件，会议, 论坛/ 聚会，新闻，等等..
 + [Computer-Graphics.md](https://github.com/svaksha/Julia.jl/blob/master/Computer-Graphics.md) :: 绘图, 图表和其它可视化工具.
 + [DataBase.md](https://github.com/svaksha/Julia.jl/blob/master/DataBase.md) :: 数据库：NoSQL, RDBMS and Middleware的接口（API）.
-+ [Earth-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, 等等...
-+ [Hardware.md](https://github.com/svaksha/Julia.jl/blob/master/Hardware.md) :: Software for cross-platform hardware and other API libraries.
-+ [HPC.md](https://github.com/svaksha/Julia.jl/blob/master/HPC.md) :: HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Kernels and architectures like ARM, MIPS, GPU, CUDA, etc...
-+ [i18n-L10n.md](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: Transliteration, Internationalisation (i18n) and Localisation (L10n)
-+ [IO.md](IO.md) :: Input/Output functionality and support for file formats.
-+ [Mathematics.md](Mathematics.md):: Algebra, Geometry,... anything Math related.
-+ [OpenData.md](https://github.com/svaksha/Julia.jl/blob/master/OpenData.md) :: OpenData, Free Data Sets.
-+ [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
++ [Earth-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) :: 制图学, 气候学, 地球生物学, 地球化学, 地理学, 地球空间信息学, 地质学, 地球物理, 地球科学/地理咨询系统, 地质数学, 气象学, 海洋学等相关的应用和软件...
++ [Hardware.md](https://github.com/svaksha/Julia.jl/blob/master/Hardware.md) :: 跨平台硬件和其它API库相关软件
++ [HPC.md](https://github.com/svaksha/Julia.jl/blob/master/HPC.md) :: 高性能计算，分布式计算，云计算，集群计算，网格计算，Kernels and architectures like 诸如ARM，MIPS，GPU，CUDA等的核心程序和架构...
++ [i18n-L10n.md](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: 翻译，国际化 (i18n) 以及本土化 (L10n)
++ [IO.md](IO.md) :: 不同文件类型的输入/输出功能和相关支持
++ [Mathematics.md](Mathematics.md):: 代数，几何，... 所有和数学相关的内容.
++ [OpenData.md](https://github.com/svaksha/Julia.jl/blob/master/OpenData.md) :: OpenData，免费的数据集
++ [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: 和物理相关的Julia程序包
 + [Programming-Paradigms.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, etc..
 + [Publications.md](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: Research Papers (journal and conference publications).
 + [QA.md](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/ Unit testing,... Quality-related tools.
