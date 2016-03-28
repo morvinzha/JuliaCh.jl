@@ -1,7 +1,7 @@
-**AI :: Algorithms, Data Mining, Clustering, Data Structures (the CS bits of Mathematics), HMM, Machine Learning, Neural networks, NLP, Roboitics, SR/Voice tools,...**
+**AI :: 算法，数据挖掘，集群，数据结构，隐马尔可夫模型，机器学习，神经网络，自然语义处理,机器人学，语音识别，...**
 
-+ [ALGORITHMS](#algorithms)
-   + [Association Rule](#association-rule)
++ [算法](#算法)
+   + [关联规则学习](#关联规则学习)
    + [Checksum](#checksum)
    + [Collaborative Filtering](#collaborative-filtering)
    + [Scheduling Algorithm](#scheduling-algorithm)
@@ -31,8 +31,8 @@
 + [DataDecomposition.jl](https://github.com/trthatcher/DataDecomposition.jl) :: Data pre-processing algorithms.
 + [SimDistComp.jl](https://github.com/CUHK-MMLAB/SimDistComp.jl) :: A Julia framework to support the simulation of distributed computing algorithms.
 
-### Association Rule
-+ [ARules.jl](https://github.com/toddleo/ARules.jl) :: Julia package for Association Rule Learning algorithms.
+### 关联规则学习
++ [ARules.jl](https://github.com/toddleo/ARules.jl) :: 关联规则学习程序库.
 
 ### Checksum 
 + [CRC.jl](https://github.com/andrewcooke/CRC.jl) :: This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
