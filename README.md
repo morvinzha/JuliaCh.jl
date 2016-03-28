@@ -1,18 +1,21 @@
-# Julia.jl
+# JuliaCh.jl
 
-[Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of resources for the [Julia language](https://github.com/JuliaLang).
+这里是[Julia.jl](http://svaksha.github.io/Julia.jl)的简体中文版本，这里收集并陈列[Julia语言](https://github.com/JuliaLang)的各种相关资源.
 
-+ [INDEX](#index)
-+ [LICENSE](#license)
-   + [Mirrors](#mirrors)
-+ [CONTRIBUTE](#contribute)
-   + [Guidelines](#guidelines)
-   + [Status](#status)
-   + [BugReport-PullRequest](#bugreport-pullrequest)
++ [索引](#索引)
++ [证书](#证书)
+   + [镜像](#镜像)
++ [贡献你的力量](#贡献你的力量)
+   + [参考](#参考)
+   + [状态](#状态)
+   + [错误报告和PR](#错误报告和PR)
 
 ----
 
-# INDEX
+# 索引
+
+对于一些基本的程序包，先在github上的[内建程序包管理器](https://github.com/JuliaLang/METADATA.jl)里找一找有没有你要找的，或者查看METADATA中[注册的Julia程序包](http://pkg.julialang.org/)，然后使用内建的包管理器来安装某个版本，当然请不要忘记
+
 For Base packages, check if the package you seek is listed in the [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check METADATA for [registered Julia packages](http://pkg.julialang.org/), then use the built-in package manager to install it after checking the requirements for respective versions and dont forget the Easter eggs!
 
 To create a package, check out the [Julia Package Development Kit](https://github.com/JuliaLang/PkgDev.jl) and here is a [sample Julia package](https://github.com/JuliaLang/Example.jl) model. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the current core development on [github](https://github.com/JuliaLang/julia/pulse). Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
