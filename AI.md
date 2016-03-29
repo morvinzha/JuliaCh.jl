@@ -10,8 +10,8 @@
    + [Sorting](#sorting)
    + [Time](#time)
 + [COMPUTATIONAL PROBLEMS](#computational-problems)
-   + [NP-complete](#np-complete)
-      + [SAT](#sat)
+   + [NP-完全](#np-complete)
+      + [满足问题](#sat)
 + [DATA STRUCTURES](#data-structures)
    + [Arrays-Graphs](#arrays-graphs)
    + [Org-JuliaSparse](#org-juliasparse)
@@ -40,7 +40,7 @@
 + [GutFlora.jl](https://github.com/one-more-minute/GutFlora.jl) :: 纯Julia的MD5校验可以简单地通过`md5(::IO)`或者`md5file("file")`完成
 
 ### Collaborative Filtering
-+ [RecSys.jl](https://github.com/abhijithch/RecSys.jl) :: An implementation of the algorithm from "Yunhong Zhou, Dennis Wilkinson, Robert Schreiber and Rong Pan. Large-Scale Parallel Collaborative Filtering for the Netflix Prize. Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management. Shanghai, China pp. 337-348, 2008".
++ [RecSys.jl](https://github.com/abhijithch/RecSys.jl) :: "Yunhong Zhou, Dennis Wilkinson, Robert Schreiber and Rong Pan. Large-Scale Parallel Collaborative Filtering for the Netflix Prize. Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management. Shanghai, China pp. 337-348, 2008"一文中的算法实现.
 
 ### [Scheduling Algorithm](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms)
 + [ComputeFramework.jl](https://github.com/shashi/ComputeFramework.jl) :: Hierarchical Scheduling of DAG Structured Computations.
@@ -76,10 +76,10 @@
 ----
 
 # [COMPUTATIONAL PROBLEMS](https://en.wikipedia.org/wiki/Category:Computational_problems)
-## [NP-complete](https://en.wikipedia.org/wiki/Category:NP-complete_problems)
-+ [TravelingSalesmanHeuristics.jl](https://github.com/evanfields/TravelingSalesmanHeuristics.jl) :: Julia package for simple traveling salesman problem heuristics.
+## [NP-完全](https://en.wikipedia.org/wiki/Category:NP-complete_problems)
++ [TravelingSalesmanHeuristics.jl](https://github.com/evanfields/TravelingSalesmanHeuristics.jl) :: 旅行商问题.
 
-### [SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)
+### [满足问题](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)
 + [dReal.jl](https://github.com/zenna/dReal.jl) :: Nonlinear SMT solving using dReal.
 + [PicoSAT.jl](https://github.com/jakebolewski/PicoSAT.jl) :: Provides Julia bindings to the popular SAT solver picosat by Armin Biere. It is based off the Python pycosat and Go pigosat bindings written by Ilan Schnell and Willam Schwartz.
 + [Z3.jl](https://github.com/zenna/Z3.jl) :: This is a Julia interface to Z3 - a high performance theorem prover developed at Microsoft Research. Z3 can solve satisfiability modulo theory (SMT) problems.
