@@ -46,11 +46,11 @@
 + [ComputeFramework.jl](https://github.com/shashi/ComputeFramework.jl) :: Hierarchical Scheduling of DAG Structured Computations.
 + [HClust.jl](https://github.com/davidavdav/HClust.jl) :: Hierarchical Clustering for Julia, similar to R's hclust().
 
-### Quantum
-+ [AdiaRoll.jl](https://github.com/Roger-luo/AdiaRoll.jl) :: An Adiabatic Computation Simulator for quantum computation.
-+ [Hadamard.jl](https://github.com/stevengj/Hadamard.jl) :: Fast multidimensional Walsh-Hadamard transforms.
+### 量子力学
++ [AdiaRoll.jl](https://github.com/Roger-luo/AdiaRoll.jl) :: 绝热计算模拟器.
++ [Hadamard.jl](https://github.com/stevengj/Hadamard.jl) :: 快速多维 Walsh-Hadamard 变换.
 
-### Pattern Matching
+### 模式识别
 + [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) :: Julia implementation of the Aho-Corasick algorithm for fast string searching.
 + [bfs.jl](https://github.com/adlawson/bfs.jl) :: Breadth First Search implementation in Julia.
 + [BlossomV.jl](https://github.com/mlewe/BlossomV.jl) :: An interface for the Blossom V perfect matching algorithm.
