@@ -39,27 +39,27 @@
 + [CRC32.jl](https://github.com/fhs/CRC32.jl) :: 32-位循环冗余校验 (CRC-32)实现.
 + [GutFlora.jl](https://github.com/one-more-minute/GutFlora.jl) :: 纯Julia的MD5校验可以简单地通过`md5(::IO)`或者`md5file("file")`完成
 
-### Collaborative Filtering
+### 协同过滤
 + [RecSys.jl](https://github.com/abhijithch/RecSys.jl) :: "Yunhong Zhou, Dennis Wilkinson, Robert Schreiber and Rong Pan. Large-Scale Parallel Collaborative Filtering for the Netflix Prize. Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management. Shanghai, China pp. 337-348, 2008"一文中的算法实现.
 
-### [Scheduling Algorithm](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms)
+### [调度算法](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms)
 + [ComputeFramework.jl](https://github.com/shashi/ComputeFramework.jl) :: Hierarchical Scheduling of DAG Structured Computations.
-+ [HClust.jl](https://github.com/davidavdav/HClust.jl) :: Hierarchical Clustering for Julia, similar to R's hclust().
++ [HClust.jl](https://github.com/davidavdav/HClust.jl) :: 类似于R语言的hclust的Julia分层聚类算法.
 
 ### 量子力学
 + [AdiaRoll.jl](https://github.com/Roger-luo/AdiaRoll.jl) :: 绝热计算模拟器.
 + [Hadamard.jl](https://github.com/stevengj/Hadamard.jl) :: 快速多维 Walsh-Hadamard 变换.
 
 ### 模式识别
-+ [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) :: Julia implementation of the Aho-Corasick algorithm for fast string searching.
-+ [bfs.jl](https://github.com/adlawson/bfs.jl) :: Breadth First Search implementation in Julia.
++ [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) :: 用于快速字符串搜寻的Aho-Corasick 算法
++ [bfs.jl](https://github.com/adlawson/bfs.jl) :: 广度优先搜索
 + [BlossomV.jl](https://github.com/mlewe/BlossomV.jl) :: An interface for the Blossom V perfect matching algorithm.
 + [dfs.jl](https://github.com/adlawson/dfs.jl) :: Depth First Search.
 + [ExpressionMatch.jl](https://github.com/one-more-minute/ExpressionMatch.jl) :: A small library designed to help macro writers deconstruct Julia expressions in a more declarative way without having to know in great detail how syntax is represented internally. 
-+ [JellyFish.jl](https://github.com/samuelcolvin/JellyFish.jl) :: Port of the jellyfish string comparison library.
++ [JellyFish.jl](https://github.com/samuelcolvin/JellyFish.jl) ::  jellyfish字符串比较库的端口.
 + [Loess.jl](https://github.com/dcjones/Loess.jl) :: is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
-+ [Match.jl](https://github.com/kmsquire/Match.jl) :: Advanced Pattern Matching for Julia.
-   + _DOCS_ :: https://matchjl.readthedocs.org/en/latest/
++ [Match.jl](https://github.com/kmsquire/Match.jl) :: Julia中的高级模式匹配.
+   + 文档 :: https://matchjl.readthedocs.org/en/latest/
 + [NearestNeighbors.jl](https://github.com/johnmyleswhite/NearestNeighbors.jl) :: Data structures for nearest neighbor search.
 + [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) :: Adds functionality to reverse-search strings with regexes
 
