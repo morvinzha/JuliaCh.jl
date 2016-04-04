@@ -63,8 +63,8 @@
 + [NearestNeighbors.jl](https://github.com/johnmyleswhite/NearestNeighbors.jl) :: Data structures for nearest neighbor search.
 + [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) :: Adds functionality to reverse-search strings with regexes
 
-### Sorting
-+ [SearchSortAlgos.jl](https://github.com/Dawny33/SearchSortAlgos.jl) :: An API for common search and sort algorithms.
+### 排序
++ [SearchSortAlgos.jl](https://github.com/Dawny33/SearchSortAlgos.jl) :: 常用搜索和排序算法的接口
 
 ### Time
 + [LabelPropagation.jl](https://github.com/afternone/LabelPropagation.jl) :: A fast, nearly linear time algorithm for detecting communtiy structure in networks.
@@ -86,7 +86,7 @@
 
 ----
 
-# DATA STRUCTURES
+# 数据结构
 
 ### [Arrays-Graphs](Hash tables / Linked List / Matrix / Functional / Trees data structures)
 + [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
@@ -169,15 +169,15 @@
 + [WSMP.jl](https://github.com/JuliaSparse/WSMP.jl) :: Interface to the Watson Sparse Matrix Package.
 + [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) :: XGBoost Julia Package.
 
-### Publications
+### 出版物
 + [julia-paper-arrays](https://github.com/jiahao/julia-paper-arrays) :: Julia position paper for [ARRAY '14](http://www.sable.mcgill.ca/array/).
 
-###### RESOURCES
+###### 资源
 + [Benchmarking Matrix Multiplication](http://nbviewer.ipython.org/url/math.mit.edu/~stevenj/18.335/Matrix-multiplication-experiments.ipynb)
 
 ----
 
-# [HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+# [隐变量马尔科夫模型](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 + [hmm.jl](https://github.com/nfoti/hmm.jl) :: Julia implementation of Hidden Markov Models.
 + [HMM.jl](https://github.com/ahwillia/HMM.jl) :: A module for fitting Hidden Markov Models in Julia.
 + [Lora.jl](https://github.com/JuliaStats/Lora.jl) :: is a generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods. 
@@ -189,34 +189,34 @@
 
 ----
 
-# MACHINE LEARNING
-Machine learning and statistics are closely related fields, so do check out the [Statistics](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages.
-+ [BackpropNeuralNet.jl](https://github.com/compressed/BackpropNeuralNet.jl) :: A neural network in Julia. 
+# 机器学习
+由于机器学习和统计是两个相关性很强的领域，所以也请参考[Statistics](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md)以或得更多程序包的信息。
++ [BackpropNeuralNet.jl](https://github.com/compressed/BackpropNeuralNet.jl) :: Julia中的神经网络. 
 + [BNMF.jl](https://github.com/r9y9/BNMF.jl) :: Gamma Process Non-negative Matrix Factorization (GaP-NMF).
 + [ConfidenceWeighted.jl](https://github.com/chezou/ConfidenceWeighted.jl) :: Confidence weighted, a machine learning algorithm.
 + [Contingency.jl](https://github.com/svs14/Contingency.jl) :: Assorted techniques for the purpose of enabling automated machine learning.
-+ [Clustering.jl](https://github.com/johnmyleswhite/Clustering.jl) :: Basic functions for clustering data ==> k-means, dp-means, etc..
++ [Clustering.jl](https://github.com/johnmyleswhite/Clustering.jl) :: 数据聚类的基本函数 ==> k-means, dp-means, etc..
 + [DAI.jl](https://github.com/binarybana/DAI.jl) :: A julia binding to the C++ discrete approximate inference library for graphical models: libDAI.
 + [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl).
 + [DecisionTrees.jl](https://github.com/one-more-minute/DecisionTrees.jl).
 + [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) :: An implementation of DeepMind's Deep Q Learning algorithm described in "Playing Atari with Deep Reinforcement Learning".
 + [Discretizers.jl](https://github.com/sisl/Discretizers.jl) :: A package to support discretization methods and mapping functions for data discretization and label maps.
-+ [EGR.jl](https://github.com/stefanks/EGR.jl) :: The Stochastic Gradient (SG) algorithm for machine learning.
++ [EGR.jl](https://github.com/stefanks/EGR.jl) :: 机器学习中的随机梯度算法(SG).
 + [ELM.jl](https://github.com/lepisma/ELM.jl) :: Extreme Learning Machines are a variant of Single-Hidden Layer Feedforward Networks (SLFNs) with a significant departure as their weights aren't iteratively tuned. This boosts the speed of neurals nets heavily.
 + [FeatureSelection.jl](https://github.com/Evizero/FeatureSelection.jl) :: Common measures and algorithms for feature selection. 
 + [Flimsy.jl](https://github.com/thomlake/Flimsy.jl) :: Gradient based Machine Learning for Julia. 
 + [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) :: Utility functions for the FunctionalData package, mainly from the area of computer vision / machine learning.
 + [GURLS.jl](https://github.com/joehuchette/GURLS.jl) :: A pure Julia port of the GURLS supervised learning library.
 + [Glmnet.jl](https://github.com/simonster/Glmnet.jl) :: Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
-+ [HopfieldNets.jl](https://github.com/johnmyleswhite/HopfieldNets.jl) :: Discrete and continuous Hopfield networks in Julia.
++ [HopfieldNets.jl](https://github.com/johnmyleswhite/HopfieldNets.jl) :: 离散和连续的霍普菲尔网络
 + [HSIC.jl](https://github.com/trappmartin/HSIC.jl) :: Julia implementations of the Hilbert-Schmidt Independence Criterion (HSIC). 
 + [KaggleDigitRecognizer.jl](https://github.com/benhamner/KaggleDigitRecognizer.jl) :: Julia code for Kaggle's Digit Recognizer competition.
 + [KDTrees.jl](https://github.com/KristofferC/KDTrees.jl) :: KD Trees.
 + [Kernels.jl](https://github.com/trthatcher/Kernels.jl) :: A Julia package for Mercer kernels and Gramian matrix calculation/approximation functions used in kernel methods of machine learning.
 + [Knet.jl](https://github.com/denizyuret/Knet.jl) :: A machine learning module implemented in Julia.
-+ [kNN.jl](https://github.com/johnmyleswhite/kNN.jl) :: The k-Nearest Neighbors algorithm in Julia.
-+ [KSVM.jl](https://github.com/remusao/KSVM.jl) by @remusao :: Kernel Support Vector Machine (SVM) written in Julia. 
-+ [KSVM.jl](https://github.com/Evizero/KSVM.jl) by @Evizero :: Support Vector Machines in pure Julia.
++ [kNN.jl](https://github.com/johnmyleswhite/kNN.jl) :: k近邻算法.
++ [KSVM.jl](https://github.com/remusao/KSVM.jl) by @remusao :: 核支持向量机. 
++ [KSVM.jl](https://github.com/Evizero/KSVM.jl) by @Evizero :: 纯Julia实现的支持向量机.
 + [Learn.jl](https://github.com/Rory-Finnegan/Learn.jl) :: Base framework library for machine learning packages. 
 + [LearnBase.jl](https://github.com/Evizero/LearnBase.jl) :: Abstractions for Julia Machine Learning Packages.
 + [liblinear.jl](https://github.com/tuzzeg/liblinear.jl) :: Liblinear binding to Julia.
@@ -225,7 +225,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [MachineLearning.jl](https://github.com/benhamner/MachineLearning.jl) :: is a Machine Learning library package that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
 + [Milk.jl](https://github.com/faithlessfriend/Milk.jl) :: Machine Learning Kit.
 + [MLKernels.jl](https://github.com/trthatcher/MLKernels.jl) :: Mercer kernels and Gramian matrix calculation/approximation.
-+ [Mocha.jl](https://github.com/pluskid/Mocha.jl) :: A Deep Learning framework for Julia, inspired by the C++ Deep Learning framework Caffe. 
++ [Mocha.jl](https://github.com/pluskid/Mocha.jl) :: 受Caffe启发的深度学习框架 
    + New tutorial on [unsupervised pre-training with stacked denoising auto-encoders](http://mochajl.readthedocs.org/en/latest/tutorial/mnist-sDA.html).
    + An IJulia Notebook [demo of using pre-trained CNN on imagenet to do image classification](http://nbviewer.ipython.org/github/pluskid/Mocha.jl/blob/master/examples/ijulia/ilsvrc12/imagenet-classifier.ipynb). 
 + [MochaTheano.jl](https://github.com/benmoran/MochaTheano.jl) :: Allow use of Theano for automatic differentiation within Mocha, via PyCall.
@@ -245,10 +245,10 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [TSVD.jl](https://github.com/andreasnoack/TSVD.jl) :: Truncated singular value decomposition with partial reorthogonalization.
 + [YCaret.jl](https://github.com/EricChiang/YCaret.jl) :: Machine learning utility functions in Julia.
 
-## Org-[JuliaML](https://github.com/JuliaML)
+## 开源组织-[JuliaML](https://github.com/JuliaML)
 + [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) :: Utilities to efficiently track learning curves or other optimization information.
 
-###### Resources
+###### 相关资源
 + [Examples from "Thoughtful Machine Learning"](https://github.com/thoughtfulml/examples).
 + [CIML](https://github.com/hal3/ciml) :: A Course in Machine Learning. This repository contains the source code for the CIML book (see http://ciml.info/) as well as any course materials that seem useful (slides, documents, labs, etc.).
 + [deepframeworks](https://github.com/zer0n/deepframeworks) :: An evaluation of Deep Learning Frameworks.
@@ -266,11 +266,11 @@ Machine learning and statistics are closely related fields, so do check out the 
 
 ----
 
-# NEURAL NETWORKS 
+# 神经网络
 + [ANN.jl](https://github.com/EricChiang/ANN.jl) :: Artifical Neural Networks.
    + __Resources__
    + Blog post on [Neural networks and a dive into Julia](http://blog.yhathq.com/posts/julia-neural-networks.html)
-+ [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) :: Restricted Boltzmann Machines and Deep Belief Networks in Julia
++ [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) :: 限制玻尔兹曼机和深度信念网络
 + [FANN.jl](https://github.com/gasagna/FANN.jl) :: A Julia wrapper for the Fast Artificial Neural Network Library (FANN).
 + [hinton.jl](https://github.com/lepisma/hinton.jl) :: Create hinton diagrams in Julia. Hinton diagrams are used to visualize weight matrices in neural networks.
 + [Julia_Neural_Network](https://github.com/nwenzel/Julia_Neural_Network) :: Basic Neural Network written in JuliaLang.
