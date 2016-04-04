@@ -267,7 +267,7 @@
 ----
 
 # 神经网络
-+ [ANN.jl](https://github.com/EricChiang/ANN.jl) :: Artifical Neural Networks.
++ [ANN.jl](https://github.com/EricChiang/ANN.jl) :: 人工神经网络.
    + __Resources__
    + Blog post on [Neural networks and a dive into Julia](http://blog.yhathq.com/posts/julia-neural-networks.html)
 + [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) :: 限制玻尔兹曼机和深度信念网络
