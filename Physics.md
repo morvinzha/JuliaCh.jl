@@ -67,7 +67,7 @@ An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, 
 + [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) :: 提供标准的变量结构和计算基本函数的量子力学的基础库
 + [QuDirac.jl](https://github.com/JuliaQuantum/QuDirac.jl) :: Dirac记号符号演算库.
 + [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl) :: 量子动力学的数值计算库
-
+R
 ----
 
 # 统计力学
@@ -76,9 +76,9 @@ An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, 
 
 ----
 
-# [热力学](http://en.wikipedia.org/wiki/Category:热力学)
+# [热力学](http://en.wikipedia.org/wiki/Category:Thermodynamics)
 + [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamic properties of moist air (real gas mixture).
-+ [热力学Table.jl](https://github.com/DANA-Laboratory/热力学Table.jl) :: 热力学 table for critical values, heat capacity, etc..
++ [ThermodynamicsTable.jl](https://github.com/DANA-Laboratory/热力学Table.jl) :: Thermodynamics table for critical values, heat capacity, etc..
 
 ----
 
