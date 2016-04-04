@@ -25,7 +25,7 @@
 + [ROOT.jl](https://github.com/jpata/ROOT.jl) :: 一个正在测试中通过FWLite实现的ROOT的Julia接口. [ROOT](http://root.cern.ch) 是一个在CERN中广泛使用的高能物理数据分析库。
 + [ROOTDataFrames.jl](https://github.com/jpata/ROOTDataFrames.jl) :: A wrapper for ROOT Trees through the Abstract DataFrame interface.
 + [Signals.jl](https://github.com/mbauman/Signals.jl) :: A high level Signal type with a common timebase and groups of channels.
-+ [Sparrow.jl](https://github.com/rennis250/Sparrow.jl) :: Visual Psychophysics package for Julia.
++ [Sparrow.jl](https://github.com/rennis250/Sparrow.jl) :: 心理物理学可视化.
 
 ----
 
@@ -59,20 +59,20 @@
 ----
 
 # 量子力学
-+ [QuantumOptics.jl](https://github.com/bastikr/QuantumOptics.jl) :: Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the Quantum Optics Toolbox for MATLAB and its Python equivalent QuTiP.
-+ [QuDOS.jl](https://github.com/acroy/QuDOS.jl) :: Quantum Dynamics of Open Systems in Julia.
++ [QuantumOptics.jl](https://github.com/bastikr/QuantumOptics.jl) :: 量子光学工具集是一个数值框架使得模拟不用的量子系统变得更加容易。与MATLAB和Python中的QuTiP相关实现类似。
++ [QuDOS.jl](https://github.com/acroy/QuDOS.jl) :: 开放系统的量子动力学
 
 ### [Julia Quantum](http://juliaquantum.github.io/)
 An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, information and computation, etc...
-+ [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) :: A foundational library for 量子力学 in Julia, that provides a unifying type structure and set of basic functions for computational 量子力学.
-+ [QuDirac.jl](https://github.com/JuliaQuantum/QuDirac.jl) :: A library for performing 量子力学 using Dirac notation.
-+ [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl) :: A library for solving dynamical equations in 量子力学.
++ [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) :: 提供标准的变量结构和计算基本函数的量子力学的基础库
++ [QuDirac.jl](https://github.com/JuliaQuantum/QuDirac.jl) :: Dirac记号符号演算库.
++ [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl) :: 量子动力学的数值计算库
 
 ----
 
 # 统计力学
 + [IsingModels.jl](https://github.com/johnmyleswhite/IsingModels.jl) :: The Ising model as a Julian distribution.
-+ [MyIsing.jl](https://github.com/kaslusimoes/MyIsing.jl) :: A naive and first try to implement a 2D Square Ising Model using Julia. 
++ [MyIsing.jl](https://github.com/kaslusimoes/MyIsing.jl) :: 简单的Ising模型模拟. 
 
 ----
 
