@@ -246,11 +246,11 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 
 #### Org-JuliaLang
 + [AppleAccelerate.jl](https://github.com/JuliaLang/AppleAccelerate.jl) :: Julia interface to OS X's Accelerate framework.
-+ [ODE.jl](https://github.com/JuliaLang/ODE.jl) :: Assorted basic Ordinary Differential Equation solvers.
++ [ODE.jl](https://github.com/JuliaLang/ODE.jl) :: 基础常微分方程求解器包
 + [Options.jl](https://github.com/JuliaLang/Options.jl) :: A framework for providing optional arguments to functions.
-+ [Roots.jl](https://github.com/JuliaLang/Roots.jl) :: Root finding functions for Julia.
-+ [SortingAlgorithms.jl](https://github.com/JuliaLang/SortingAlgorithms.jl) :: extra sorting algorithms extending Julia's sorting API.
-+ [Sundials.jl](https://github.com/JuliaLang/Sundials.jl) :: A Julia package that interfaces to the Sundials library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
++ [Roots.jl](https://github.com/JuliaLang/Roots.jl) :: 函数求根器
++ [SortingAlgorithms.jl](https://github.com/JuliaLang/SortingAlgorithms.jl) :: 扩展排序算法：具有Julia标准排序函数接口( [standard sorting API]（http://docs.julialang.org/en/latest/stdlib/sort/#sorting-and-related-functions) )
++ [Sundials.jl](https://github.com/JuliaLang/Sundials.jl) :: Julia-Sundials库的接口： Sundials库是一个C的库，这个库提供了非线性求解器(KINSOL), 常微分方程求解器(CVODE), 微分代数方程求解器(IDA).
 
 #### Org-[JuliaDiff](http://www.juliadiff.org/)
 + [ReverseDiffSource.jl](https://github.com/JuliaDiff/ReverseDiffSource.jl) :: Automated differentiation by reverse accumulation. [Documentation](http://reversediffsourcejl.readthedocs.org/en/master/index.html).
