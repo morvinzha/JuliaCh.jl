@@ -229,16 +229,16 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 + [NumericalMath’s documentation for Integration](http://hwborchers.lima-city.de/JuliaMeetup/numerical/integration.html).
 
 ### [Ordinary Differential Equation](http://en.wikipedia.org/wiki/Ordinary_differential_equation)
-+ [AutoDiff.jl](https://github.com/scidom/AutoDiff.jl) :: Juila package for performing automatic differentiation.
-+ [DASSL.jl](https://github.com/pwl/DASSL.jl) :: An implementation of the Differential Algebraic System SoLver (DASSL) algorithm for solving algebraic differential equations.
++ [AutoDiff.jl](https://github.com/scidom/AutoDiff.jl) :: Juila 自动微分（[Automatic Differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)）程序包
++ [DASSL.jl](https://github.com/pwl/DASSL.jl) :: 微分代数系统求解器（DASSL: Differential Algebraic System SoLver）的算法实现，用于求解微分代数方程组（DAE: Differential Algebraic Equations）
 + [DualNumbers2.jl](https://github.com/johnmyleswhite/DualNumbers2.jl) :: Another Julia implementation of dual numbers for automatic differentiation.
-+ [DynamicalSystems.jl](https://github.com/timothyrenner/DynamicalSystems.jl) :: A collection of Julia functions that produce the systems of ODEs for various dynamical systems. 
-+ [IVPTestSuite.jl](https://github.com/mauro3/IVPTestSuite.jl) :: DE solver test suite of Ordinary differential equations (ODE) and algebraic differential equations (DAE).
-+ [HPFEM.jl](https://github.com/pjabardo/HPFEM.jl) :: HP Finite elements in Julia.
-+ [JFinEALE.jl](https://github.com/PetrKryslUCSD/JFinEALE.jl) :: A Finite Element Analysis Learning Environment (FinEALE) package for finite element analysis of continua. This toolkit is a redesign of the Matlab toolkit.
++ [DynamicalSystems.jl](https://github.com/timothyrenner/DynamicalSystems.jl) :: 用于生成各种动态系统函数的包。（注，这些动态系统函数用作[龙格库塔求解器](https://github.com/timothyrenner/RungeKutta.jl)的输入） 
++ [IVPTestSuite.jl](https://github.com/mauro3/IVPTestSuite.jl) :: 微分方程求解器测试套装，用于常微分方程组(ODE)和微分代数方程组(DAE).
++ [HPFEM.jl](https://github.com/pjabardo/HPFEM.jl) :: Julia的HP有限元分析
++ [JFinEALE.jl](https://github.com/PetrKryslUCSD/JFinEALE.jl) :: 一种有限元分析学习环境包 (FinEALE)，用于对连续统的有限元分析。这个工具包是在Matlab包的基础上重新设计的。
 + [Makhno.jl](https://github.com/pjabardo/Makhno.jl) :: Spectral element code implemented in Julia.
-+ [ODEDSL.jl](https://github.com/AleMorales/ODEDSL.jl) :: Domain specific language to write ODE models with tests. Automatic code generation for Julia, R and CPP (via Rcpp). 
-+ [odesolver](https://github.com/insideloop/odesolver) :: Collection of solvers for Ordinary Differential Equations.
++ [ODEDSL.jl](https://github.com/AleMorales/ODEDSL.jl) :: 确切定义域语言（Domain Specific Language），用于描述动态系统模型（状态空间模型）并且自带测试。这是一个用于Julia，R，Cpp（通过Rcpp）的代码自动生成器。
++ [odesolver](https://github.com/insideloop/odesolver) :: 常微分方程组（ODE）求解器包
 + [RiemannHilbert.jl](https://github.com/dlfivefifty/RiemannHilbert.jl) :: Riemann–Hilbert problems, named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
 
 ###### Resources
@@ -413,5 +413,4 @@ __For the development of interfaces to sparse matrix solvers such as sequential 
 + [Sudoku.jl](https://github.com/hayd/Sudoku.jl) :: A port of Peter Norvig's "Solving Every Sudoku Puzzle" to Julia by @hayd.
 + [SudokuService](https://github.com/IainNZ/SudokuService) :: Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver.
 + [TowerOfHanoi.jl](https://github.com/thiruk/TowerOfHanoi.jl) :: Solution to Tower Of Hanoi using Julia.
-
 
