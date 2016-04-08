@@ -304,7 +304,7 @@ algebra library in Julia.
 + [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) :: A Finite element surface mesh manipulation library to work with polygon-surface-meshes.
 + [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) :: This is a package to plot trusses for finite element results.
 
-## [Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry]
+## [Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry)
 + [Descartes.jl](https://github.com/FactoryOS/Descartes.jl) :: A research project into the representation of solid geometry.
 
 ----
