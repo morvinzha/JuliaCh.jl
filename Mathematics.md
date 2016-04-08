@@ -265,14 +265,14 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 ----
 
 # [Discrete Math](https://en.wikipedia.org/wiki/Category:Discrete_mathematics)
-+ [ClosedIntervals.jl](https://github.com/scheinerman/ClosedIntervals.jl) :: Closed intervals of the form [a,b]. 
++ [ClosedIntervals.jl](https://github.com/scheinerman/ClosedIntervals.jl) :: 闭区间运算包：形如[a,b]的（实数轴上的）闭区间和他们的运算。
 + [DiscreteFactor.jl](https://github.com/wlbksy/DiscreteFactor.jl) :: Discrete factor and its operations in Probabilistic Graphical Models.
 + [DiscreteInference.jl](https://github.com/lindahua/DiscreteInference.jl) :: Viterbi algorithm.
 + [Intervals.jl](https://github.com/andrioni/Intervals.jl) :: A pure Julia reimplementation of MPFI, a multiple precision interval arithmetic library.
-+ [IntModN.jl](https://github.com/andrewcooke/IntModN.jl) :: Ring(s) of Integers Modulo-N.
++ [IntModN.jl](https://github.com/andrewcooke/IntModN.jl) :: 模算数包：同余整数所构成的环和多项式环，和他们的运算。
 + [IPPMath.jl](https://github.com/lindahua/IPPMath.jl) :: A Julia package for vectorized math computation based on Intel IPP.
 + [PermPlain.jl](https://github.com/jlapeyre/PermPlain.jl) :: Permutations implemented with plain data types - This package implements methods for manipulating permutations. The methods operate on data types in the Base module, or in modules providing generic data types. 
-+ [Permutations.jl](https://github.com/scheinerman/Permutations.jl) by @scheinerman :: Permutations class for Julia.
++ [Permutations.jl](https://github.com/scheinerman/Permutations.jl) by @scheinerman :: 用于Julia的置换(Permutations)类:
 + [PermutationsA.jl](https://github.com/jlapeyre/PermutationsA.jl) by @jlapeyre :: Permutation data types and methods. 
 + [PrimeSieve.jl](https://github.com/jlapeyre/PrimeSieve.jl) :: This package provides an interface to tables of primes and a sieve library.
 + [RomanNumerals.jl](https://github.com/anthonyclays/RomanNumerals.jl) :: Support for Roman numerals in Julia.
