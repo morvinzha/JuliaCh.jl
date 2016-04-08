@@ -255,7 +255,7 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 #### Org-[JuliaDiff](http://www.juliadiff.org/)
 + [ReverseDiffSource.jl](https://github.com/JuliaDiff/ReverseDiffSource.jl) :: Automated differentiation by reverse accumulation. [Documentation](http://reversediffsourcejl.readthedocs.org/en/master/index.html).
 + [HyperDualNumbers.jl](https://github.com/JuliaDiff/HyperDualNumbers.jl) :: Hyper-Dual Numbers for Exact Second-Derivative Calculations, is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.
-+ [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) :: 前向自动微分包.
++ [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) :: Julia包,用于前向自动微分(Forward AD).
 + [DualNumbers.jl](https://github.com/JuliaDiff/DualNumbers.jl) :: Julia package for representing dual numbers and for performing dual algebra.
 + [NDuals.jl](https://github.com/JuliaDiff/NDuals.jl) :: Experimental package for stack-allocated dual numbers with multiple epsilon components.
 
