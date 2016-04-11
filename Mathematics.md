@@ -378,7 +378,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 #### Org-[JuliaFEM](https://github.com/JuliaFEM)
 __Finite element methods__
 + [JuliaFEM.jl](https://github.com/JuliaFEM/JuliaFEM.jl) :: 有限元算法求解器
-+ [MiniBall.jl](https://github.com/JuliaFEM/MiniBall.jl) :: 任何一个点
++ [MiniBall.jl](https://github.com/JuliaFEM/MiniBall.jl) :: 用于juliaFEM的任意维数最小闭球
 + [TetGen.jl](https://github.com/JuliaFEM/TetGen.jl) :: 有限元算法求解器(JuliaFEM的一部分)
 
 #### Org-[JuliaSparse](https://github.com/JuliaSparse) 
