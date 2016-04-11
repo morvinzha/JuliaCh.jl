@@ -285,15 +285,15 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 # [Geometry](http://en.wikipedia.org/wiki/Geometry)
 + [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: Computational geometry with affine transformations
 + [ConicHulls.jl](https://github.com/toivoh/ConicHulls.jl) :: Exact dynamic conic hulls of integer vectors.
-+ [ConvexHull.jl](https://github.com/joehuchette/ConvexHull.jl) :: A Julia library for polyhedral computations.
++ [ConvexHull.jl](https://github.com/joehuchette/ConvexHull.jl) :: 用于多面体计算的julia库.
 + [D4.jl](https://github.com/khwilson/D4.jl) :: An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002.
 + [GeoAlg.jl](https://github.com/andrioni/GeoAlg.jl) :: A basic geometric 
 algebra library in Julia.
-+ [Geometry2D.jl](https://github.com/mroughan/Geometry2D.jl) :: 2D computational geometry package for Julia programming language.
++ [Geometry2D.jl](https://github.com/mroughan/Geometry2D.jl) :: 2-D计算几何包
 + [mbr.jl](https://github.com/intdxdt/mbr.jl) :: axis aligned minimum bounding box.
 + [Tau.jl](https://github.com/Aerlinger/Tau.jl) :: A simple module providing definition of the Tau constant. 
-+ [Tensors.jl](https://github.com/pgawron/Tensors.jl) :: Julia package for tensor decompositions.
-+ [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) :: Julia package for tensor contractions and related operations.
++ [Tensors.jl](https://github.com/pgawron/Tensors.jl) :: 用于张量分解的julia包
++ [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) :: julia的快速张量收缩？（例如内积和迹）运算包
 
 ## [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
 + [CSoM.jl](https://github.com/goedman/CSoM.jl) :: Investigate Julia version of "Programming the FEM" by I M Smith, D V Griffiths.
@@ -359,7 +359,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [BSplines.jl](https://github.com/gusl/BSplines.jl) :: This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.
 + [Elemental.jl](https://github.com/JuliaParallel/Elemental.jl) :: A Julia interface to the [Elemental linear algebra library](http://libelemental.org/) with third-party interfaces. [Source code](https://github.com/elemental/Elemental).
 + [IncrementalSVD.jl](https://github.com/aaw/IncrementalSVD.jl) :: Simon Funk's approach to collaborative filtering using the singular value decomposition, implemented in Julia.
-+ [InteriorPoint.jl](https://github.com/IainNZ/InteriorPoint.jl) :: Primal-dual interior point solver for linear programs.
++ [InteriorPoint.jl](https://github.com/IainNZ/InteriorPoint.jl) :: 内点法求解器，用于求解线性规划中的原-对偶问题。
 + [IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl).
 + [IterativeSolvers.jl](https://github.com/JuliaLang/IterativeSolvers.jl) :: Implement Arnoldi and Lanczos methods for svds and eigs. 
 + [NumericalShadow.jl](https://github.com/pgawron/NumericalShadow.jl) :: Library to calculate numerical shadows in Julia language.
