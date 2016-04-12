@@ -299,7 +299,7 @@ algebra library in Julia.
 + [CSoM.jl](https://github.com/goedman/CSoM.jl) :: Investigate Julia version of "Programming the FEM" by I M Smith, D V Griffiths.
 + [EllipticCurves.jl](https://github.com/wwilson/EllipticCurves.jl) :: Elliptic Curves in Julia.
 + [khypot.jl](https://github.com/intdxdt/khypot.jl) :: k dimensional hypotenuse.
-+ [FEM.jl](https://github.com/pjabardo/FEM.jl) :: Simple finite elements in Julia.
++ [FEM.jl](https://github.com/pjabardo/FEM.jl) :: julia中的简单的有限元
 + [ols.jl](https://github.com/forio/ols.jl) :: Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
 + [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) :: A Finite element surface mesh manipulation library to work with polygon-surface-meshes.
 + [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) :: This is a package to plot trusses for finite element results.
